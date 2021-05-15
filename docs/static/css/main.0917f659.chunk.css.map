@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAIA,OAHE,qBAUF,CAPA,KACE,QAAS,CACT,SAAU,CACV,WAAY,CACZ,WAAY,CACZ,eAEF","file":"main.0917f659.chunk.css","sourcesContent":["* {\n  box-sizing: border-box;\n}\n\nbody {\n  margin: 0;\n  padding: 0;\n  width: 100vw;\n  height: 50vh;\n  overflow: scroll;\n  box-sizing: border-box;\n}"]}

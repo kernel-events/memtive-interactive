@@ -1,8 +1,10 @@
 # memtive-interactive
 
-> A component library for interactive animations created in After Effects, Uses BodyMovin, Lottie and GASP for the rendering engine
+> A Component Library for interactive animations created in After Effects, Uses BodyMovin, Lottie and GASP for the rendering engine
 
 [![NPM](https://img.shields.io/npm/v/memtive-interactive.svg)](https://www.npmjs.com/package/memtive-interactive) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+
+## Example
 
 ## Install
 
