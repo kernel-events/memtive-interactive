@@ -6,6 +6,8 @@
 
 ## Example
 
+Here's an [example](https://worksheet-ai.github.io/memtive-interactive/) of the library
+
 ## Install
 
 ```bash
